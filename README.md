@@ -1,1 +1,3 @@
-# 2021summer[ㅁㄴㅇㄹㅁㅇㄴㄹ.txt](https://github.com/firstcoding17/2021summer/files/7088591/default.txt)
+# 2021summer
+
+여름 방학(202106 ~ 202108)에 했던 것들
